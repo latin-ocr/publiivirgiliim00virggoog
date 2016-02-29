@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiivirgiliim00virggoog_0003.png"; bbox 0 0 1033 1438; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 239 251 588 341">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 239 251 588 341">
+     <span class='ocr_line' id='line_1_1' title="bbox 239 251 588 341; baseline -0.011 -31"><span class='ocrx_word' id='word_1_1' title='bbox 239 251 323 309; x_wconf 40' lang='grc' dir='ltr'><em>’ὧν</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 329 279 373 310; x_wconf 58' lang='grc' dir='ltr'><em>κβ,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 385 276 463 341; x_wconf 57' lang='lat'><em>⁰³⁶7</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 579 251 588 255; x_wconf 60' lang='grc'>”</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 287 284 787 1066">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 287 284 787 1066">
+     <span class='ocr_line' id='line_1_2' title="bbox 287 284 787 1066; baseline 0 -633"><span class='ocrx_word' id='word_1_5' title='bbox 287 284 787 1066; x_wconf 95' lang='lat' dir='ltr'><em>    </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 404 375 475 397">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 404 375 475 397">
+     <span class='ocr_line' id='line_1_3' title="bbox 404 375 475 397; baseline -0.028 0"><span class='ocrx_word' id='word_1_6' title='bbox 404 375 475 397; x_wconf 43' lang='grc' dir='ltr'><em>ηπ·</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
